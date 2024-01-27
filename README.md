@@ -1,1 +1,1 @@
-# mnist_playground
+# MNIST 784 Playground
